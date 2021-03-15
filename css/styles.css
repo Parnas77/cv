@@ -1,0 +1,35 @@
+body {
+  font-family: "Trirong";
+  background-color: #f8dc81;
+  color: #214151;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #5b6d5b;
+  border-width: 5px;
+  width: 7%;
+}
+
+img {
+  border-style: outset;
+  border-color: #eff7e1;
+  border-width: 2px;
+}
+
+h1 {
+  color: #214151;
+  text-shadow: 1px 1px 2px #5b6d5b;
+  font-family: Montserrat;
+}
+
+h3 {
+  color: #214151;
+  font-family: Montserrat;
+}
+
+h5 {
+  color: #214151;
+  font-family: Montserrat;
+}
